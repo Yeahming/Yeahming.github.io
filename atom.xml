@@ -4,7 +4,7 @@
   <title><![CDATA[Yanming’s Blog]]></title>
   <link href="http://yeahming.github.io/atom.xml" rel="self"/>
   <link href="http://yeahming.github.io/"/>
-  <updated>2016-06-20T16:08:00+08:00</updated>
+  <updated>2016-06-20T16:09:52+08:00</updated>
   <id>http://yeahming.github.io/</id>
   <author>
     <name><![CDATA[Yanming]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[apple pay about]]></title>
+    <link href="http://yeahming.github.io/blog/2016/06/20/apple-pay-about/"/>
+    <updated>2016-06-20T16:09:44+08:00</updated>
+    <id>http://yeahming.github.io/blog/2016/06/20/apple-pay-about</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[apple pay 简述]]></title>

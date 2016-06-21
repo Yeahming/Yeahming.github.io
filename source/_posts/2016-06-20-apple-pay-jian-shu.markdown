@@ -1,5 +1,11 @@
-# Octopress Changelog
-
+---
+layout: post
+title: "apple pay 简述"
+subtitle: "简单,明了"
+date: 2016-06-20 16:05:53 +0800
+comments: true
+categories: 
+---
 ## 2.0
 
 - Now based on [mojombo/jekyll](http://github.com/mojombo/jekyll)
